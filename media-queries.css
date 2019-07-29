@@ -1,4 +1,5 @@
 .alert-info {
+    background-color: turquoise;
 
 }
 .hidden-on-desktop {
@@ -6,7 +7,8 @@
 }
 
 .nav-links {
-
+    display: flex;
+    align-items: flex-end;
 }
 
 .header-img {
@@ -15,7 +17,6 @@
 .main {
 
 }
-
 .sub-section {
 
 }
@@ -23,3 +24,15 @@
 #main {
 
 }
+ @media only screen and (max-width: 600px){
+     body{
+
+
+     }
+
+
+
+
+
+
+ }
