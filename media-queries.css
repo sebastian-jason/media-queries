@@ -1,38 +1,12 @@
-.alert-info {
-    background-color: turquoise;
-
-}
-.hidden-on-desktop {
-
+* {
+    box-sizing: border-box;
 }
 
-.nav-links {
+body {
     display: flex;
-    align-items: flex-end;
-}
-
-.header-img {
-
-}
-.main {
-
-}
-.sub-section {
 
 }
 
-#main {
+.alert-info {
 
 }
- @media only screen and (max-width: 600px){
-     body{
-
-
-     }
-
-
-
-
-
-
- }
